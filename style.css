@@ -1,3 +1,9 @@
+body {
+    background-color: black;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
 header {
     background-color: plum;
     padding: 10px;
@@ -5,3 +11,17 @@ header {
 .nav-link {
     font-size: 20px;
 }
+
+h2 {
+    font-size: 56px;
+    text-align: center;
+}
+
+.quickintro p {
+    font-size: 36px;
+    color:gray;
+    text-align: center;
+    padding-top: 25px;
+    margin-top: 25px;
+}
+
