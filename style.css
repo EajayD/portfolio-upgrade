@@ -12,6 +12,10 @@ header {
     font-size: 20px;
 }
 
+#intro {
+    padding-top: 100px;
+}
+
 h2 {
     font-size: 56px;
     text-align: center;
@@ -25,3 +29,17 @@ h2 {
     margin-top: 25px;
 }
 
+.abouts {
+    justify-content: center;
+}
+
+.abouts h3 {
+    text-align: center;
+    text-decoration: underline;
+    font-size: 32px;
+}
+
+.abouts p {
+    font-size: 24px;
+    text-align: center;
+}
