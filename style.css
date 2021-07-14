@@ -96,3 +96,28 @@ h2 {
 #subsequent img:hover {
     opacity: 0.2;
 }
+
+footer {
+    padding: 25px;
+    text-align: center;
+
+}
+
+footer h4 {
+    font-size: 22px;
+    text-decoration: underline;
+}
+
+footer ul {
+    list-style-type: none;
+}
+
+footer ul li {
+    display: inline-block;
+    color: plum
+}
+
+footer ul li a {
+    text-decoration: none;
+    color: plum;
+}
